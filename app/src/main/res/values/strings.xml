@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MobileSafe</string>
+    <string name="btn_start">开始体验</string>
+    <string name="tv_version">版本：</string>
+    <string name="unkown_version_name">版本未知</string>
+    <string name="unkown_version_code">获取版本号失败</string>
+    <string name="get_stream_error">从服务器获取文件流失败</string>
+    <string name="json_analyzing_error">Json解析失败</string>
+    <string name="title_update">更新</string>
+    <string name="new_version">新版本：</string>
+    <string name="btn_update_now">马上升级</string>
+    <string name="btn_update_next">下次升级</string>
+    <string name="btn_ok">确定</string>
+    <string name="btn_cancel">取消</string>
+    <string name="tv_not_remind_version">此版本不再提醒</string>
+</resources>
